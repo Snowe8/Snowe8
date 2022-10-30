@@ -4,7 +4,7 @@
   
     Sobre
   
-  <p> - 15y </p>
+  <p> - 15y. </p>
   <p> - Estudando desenvolvimento web e seguranca ofensiva. </p>
   
   
